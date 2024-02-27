@@ -1,3 +1,3 @@
 # grupo-7-pr
 
-### clonar el proyecto 
+### clonar el proyecto con fork 
